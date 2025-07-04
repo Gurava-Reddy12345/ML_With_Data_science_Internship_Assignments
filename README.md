@@ -1,1 +1,1 @@
-# ML_With_Data_science_Assignments
+# ML_With_Data_science_Internship_Assignments
